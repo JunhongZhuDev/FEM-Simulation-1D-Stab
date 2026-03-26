@@ -3,7 +3,7 @@
 A simple Finite Element Method (FEM) example for a 1D bar.
 
 ## Result
-![FEM Result](result.png)
+![FEM Result](image/result.png)
 
 ## Features
 - FEM assembly
