@@ -1,13 +1,11 @@
-# FEM Beispiel (Python)
+FEM Example (Python)
 
-Ein einfaches Finite-Elemente-Beispiel (1D Stab).
+A simple Finite Element Method (FEM) example for a 1D bar.
 
-## Features
-- FEM Assembly
-- Lineares Gleichungssystem
-- Visualisierung mit matplotlib
-
-## Start
-```bash
+Features
+FEM assembly
+Linear system of equations
+Visualization using matplotlib
+Getting Started
 pip install -r requirements.txt
 python main.py
